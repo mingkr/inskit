@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f1f1f1;
+    font-family: 'Noto Sans KR', sans-serif;
+    overflow: hidden;
+}
+
+.body{
+    text-align: center;
+    margin: auto;
+}
+
+.nav-name{
+    font-size: 30px;
+    font-weight: 300;
+    background-color: #ffffff;
+}
+
+.nav-item{
+    text-decoration: none;
+    color: #000000;
+    padding-left: 10px;
+    font-weight: 500;
+    background-color: #ffffff;
+}
+
+.nav-item:hover{
+    color: #707070;
+}
+
+.nav{
+    display: flex;
+    position: relative;
+    align-items: center;
+    text-align: left;
+    padding-left: 20px;
+    background-color: #ffffff;
+}
+
+.title{
+    font-weight: 600;
+    margin-top: 40px;
+    font-size: 50px;
+}
+
+.subtitle{
+    font-weight: 300;
+    margin-top: 40px;
+    font-size: 20px;
+}
