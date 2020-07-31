@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    background-color: #f1f1f1;
+    background-color: #ffffff;
     font-family: 'Noto Sans KR', sans-serif;
     overflow: hidden;
 }
@@ -14,15 +14,16 @@
 .nav-name{
     font-size: 30px;
     font-weight: 300;
-    background-color: #ffffff;
+    color: #ffffff;
+    background-color: #303030;
 }
 
 .nav-item{
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
     padding-left: 10px;
     font-weight: 500;
-    background-color: #ffffff;
+    background-color: #303030;
 }
 
 .nav-item:hover{
@@ -35,7 +36,7 @@
     align-items: center;
     text-align: left;
     padding-left: 20px;
-    background-color: #ffffff;
+    background-color: #303030;
 }
 
 .title{
